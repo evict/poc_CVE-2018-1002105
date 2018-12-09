@@ -1,0 +1,7 @@
+GET /apis/{0}/{1}/ HTTP/1.1
+Host: {2}
+Upgrade: websocket
+Connection: upgrade
+User-Agent: kubectl/v1.12.0 (linux/amd64) kubernetes/0ed3388
+Accept: */*
+
